@@ -1,0 +1,6 @@
+/Users/aluno/Projects/BeginSoluction/BusinessLogicLayer/bin/Debug/BusinessLogicLayer.dll
+/Users/aluno/Projects/BeginSoluction/BusinessLogicLayer/bin/Debug/BusinessLogicLayer.pdb
+/Users/aluno/Projects/BeginSoluction/BusinessLogicLayer/obj/Debug/BusinessLogicLayer.csprojAssemblyReference.cache
+/Users/aluno/Projects/BeginSoluction/BusinessLogicLayer/obj/Debug/BusinessLogicLayer.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/BeginSoluction/BusinessLogicLayer/obj/Debug/BusinessLogicLayer.dll
+/Users/aluno/Projects/BeginSoluction/BusinessLogicLayer/obj/Debug/BusinessLogicLayer.pdb

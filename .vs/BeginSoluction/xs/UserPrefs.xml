@@ -1,11 +1,5 @@
 ﻿<Properties StartupConfiguration="{8ED12320-5830-4519-B185-5A879BD0A755}|">
-  <MonoDevelop.Ide.ItemProperties.DataAccessLayer FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccessLayer/Persistence/Connection.cs">
-    <Files>
-      <File FileName="DataAccessLayer/Persistence/Connection.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BusinessLogicLayer FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.UserInterface FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
